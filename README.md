@@ -10,4 +10,4 @@ PER VISUALIZZARE IL SITO (Azione consigliata tramite PC):
 <br></br>
   -Se questa voce non è presente è necessario installare l'estensione "live server".
 <br></br>
--Il sito si apriràin automatico sulla vostra pagina web.
+-Il sito si aprirà in automatico sulla vostra pagina web.
